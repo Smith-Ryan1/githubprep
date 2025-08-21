@@ -1,12 +1,14 @@
-What I learned: 
-After examining the frameworks provided to me, I believe I will be leaning more towards the ACM code of ethics as it is both well worded and has a focus on human access and privacy. This is more in line with my personal view of ethics, more so than ICS2, and yet more thoroughly defined than IEEE. Looking at the textbook “protecting personal privacy and data” (CITE THIS LATER) should come first in every situation, however, ICS2 doesn’t quite state that. Reading through the IEEE, it reads as a summary for ACM and doesn’t include human care as its first goal. 
-	
-How will I apply it: 
-I can see using the ACM framework of ethics everyday, communicating with people, as well as in the office working with computers and navigating the legal and ethical questions that may arise. In my current job, people come first always, I strive to make sure that the people that I work for want me to work for them, that is good business. If a private Cyber Security company does not take complete care of their contractors they will not have a company. In the office, I can foresee myself using this framework in a, for lack of a better term, “what would ACM do” sort of way. I believe that, in each circumstance, I will use my better judgement in a high-stress situation, but I can also use the ACM code of ethics if I cannot make a judgement. 
-	
-Muddiest Point: 
-I would say my most muddy point, or at least my biggest question, is how human ethicists and their ideas translate to AI. Would they adopt our ideals through human input in their learning algorithms or would they adopt their own set of ideals given enough time and development? 
+My Ethical Lens: 
+I am a personal fan of Rene Descartes and am a fan of his rationalism approach to ethics. That being said, I take a kinship to his approach to thinking about the situation as if it were a challenge to be hurdled when approached, “what is the best way I can get through this, in the most efficient way, while still being effective.” Similarly, I agree with the notion of Descartes ethics being applied to technology. I want the most bare bones, this is how this is, this is how this should be, how can we get from this to that, method as I possibly can. I am a numbers person, two plus two must equal four, what about this code is not how it should be, how can I get it to that point. 
 
-Portfolio Additions:
-Making sure my portfolio is in proper format
-Adding a notes page to be later added to my cybersec playbook in my personal github account
+Authorization Principle: 
+An authorization principle is the agreed upon set of rules for someone given clearance to access a network, with potential negative consequences for breaching the rules. A campus example for this would be the university guest wifi, before you connect you must agree that you will not use their free public wifi for anything other than what they say it is for, with disconnection as a possible negative consequence.
+
+Authorization Policy: 
+An authorization policy is an agreement between two parties outlining how a service should be used. This is the case in most public wifi networks. 
+
+Policy Snippet: 
+Use of this Network indicates an agreement to the fair use policy and confirms that you are an authorized user. Use of this Network is restricted to those provided to authorized users with their specified clearance level and shall not be used in any other manner. All data shall be secured and any breach of this policy should be immediately reported to the acting head of technology. Violations to any and all agreements will result in immediate termination.
+
+Reflection: 
+I would like to refine my idea of what a AUP is, mainly I want to look at some other, better, examples than the public wifi AUP here at Hocking. Furthermore, I would like to re-read some of the more confusing ethical frameworks and see if there is anything that would better suit me or if my statement is correct. 
